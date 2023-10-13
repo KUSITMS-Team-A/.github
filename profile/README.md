@@ -120,7 +120,7 @@
 ## **💻 Technology**
 
 
-- [Web / Android](https://github.com/kusitms-com/28th_Semi_README/tree/main/TeamZ_Reference#web--android)
+- Web / App
     - WEB
         - Next.js
         - Typescript
@@ -135,7 +135,7 @@
 
 <br><br>
 
-- [Server](https://github.com/kusitms-com/28th_Semi_README/tree/main/TeamZ_Reference#server)
+- Server
     - Server Application
         - Spring Boot
         - Spring Security
@@ -146,7 +146,7 @@
         - Docker
   <br><br>
   
-- [Co-working Tool](https://github.com/kusitms-com/28th_Semi_README/tree/main/TeamZ_Reference#co-working-tool)
+- Co-working-tool
     - 개발진행상황 동기화
         - Trello
     - 의사소통 / 회의
