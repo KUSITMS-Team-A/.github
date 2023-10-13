@@ -227,14 +227,17 @@ MySQL은 오픈 소스 라이선스를 사용하며, 무료로 사용할 수 있
 
 ## **🗂️ Commit Convention**
 [프론트엔드]
-
-<type>(<scope>) : <subject>
+<pre>
+type(scope) : (subject)
+</pre>
 
 분류(작업영향범위) : 설명
 
 [백엔드]
 
-<type> : <subject>
+<pre>
+(type) : (subject)
+</pre>
 
 <subject> : 커밋 내 추가, 수정 내용 요약한 텍스트
 <br><br>
