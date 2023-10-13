@@ -108,12 +108,12 @@
 <br><br>
 
 ## **🎨 디자인 무드보드**
-
-<img width="848" alt="KakaoTalk_Photo_2023-10-04-02-51-36" src="https://github.com/kusitms-com/28th_Semi_README/assets/115339354/982e06ae-9957-487c-b5d3-10c7f369fcbb">
+![readme6](https://github.com/KUSITMS-Team-A/.github/assets/50680955/686fc77c-4e45-4b97-9514-adca3c5329aa)
 
 <br><br>
 
 ## **🔍 System Architecture**
+<img width="1017" alt="스크린샷 2023-10-13 오후 3 42 07" src="https://github.com/KUSITMS-Team-A/.github/assets/50680955/1a848cb1-0685-4364-ad76-6332fab5a250">
 
 <br><br>
 
